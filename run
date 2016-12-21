@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ghc src/BF.hs -o BF
+rm ./src/*.hi ./src/*.o
+./BF
