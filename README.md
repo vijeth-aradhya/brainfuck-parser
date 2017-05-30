@@ -4,7 +4,7 @@ A simple parser written in Haskell for Brainfuck which is an esoteric programmin
 
 ## Description
 
-Brainfuck is an example of a minimal [Turing tarpit] (https://en.wikipedia.org/wiki/Turing_tarpit). This language consists of only eight simple commands and an instruction pointer. It is TURING COMPLETE.
+Brainfuck is an example of a minimal [Turing tarpit](https://en.wikipedia.org/wiki/Turing_tarpit). This language consists of only eight simple commands and an instruction pointer. It is TURING COMPLETE.
 
 This is a full-fledged parser for the above language using langugae.
 
